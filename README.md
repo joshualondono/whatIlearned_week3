@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ### Javascript
 
 1. Functions
